@@ -1,4 +1,4 @@
-package Day19_class_vs_object_string;
+package day19_class_vs_object_string;
 
 public class LoginTest {
     public static void main(String[] args) {

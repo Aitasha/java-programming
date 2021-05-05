@@ -1,6 +1,4 @@
-package Day19_class_vs_object_string;
-
-import java.sql.SQLOutput;
+package day19_class_vs_object_string;
 
 public class StringCaseConversion {
     public static void main(String[] args) {
