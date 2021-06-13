@@ -1,9 +1,15 @@
 package day47_constructors;
 
 public class Student {
+
+   String name;
+   int age;
+
     //No args constructor
     public Student(){
-        System.out.println("No_Args Constructor");
+       System.out.println("No_Args Constructor");
+
+
     }
 
     //constructor with 1 param: String name
